@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "backend-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,5 +19,14 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.0.3",
     "nodemon": "^3.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badrisinghoo7/Backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/badrisinghoo7/Backend/issues"
+  },
+  "homepage": "https://github.com/badrisinghoo7/Backend#readme",
+  "description": ""
 }
