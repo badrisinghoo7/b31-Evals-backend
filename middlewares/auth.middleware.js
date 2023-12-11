@@ -16,3 +16,6 @@ const auth = (req, res, next) => {
     res.send({ msg: "Please login first you are not a person in my DataBase" });
   }
 };
+module.exports = {
+  auth,
+};
